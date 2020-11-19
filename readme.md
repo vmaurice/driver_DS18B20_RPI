@@ -1,6 +1,6 @@
 # Driver for DS18B20 in RPI
 
-Driver DS18B20 for GPIO Raspberry pi. It is operational for several devices and it can change the resolution for each device.
+Driver DS18B20 (temperature sensors) for GPIO Raspberry pi. It is operational for several devices and it can change the resolution for each device.
 
 ```
 read kernel returns :
